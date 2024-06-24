@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Multi-Module Project"
 include(":app")
- 
+include(":my-module-list")
+include(":module-ui")
